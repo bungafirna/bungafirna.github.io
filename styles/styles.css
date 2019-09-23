@@ -1,0 +1,48 @@
+body {
+    background-color: rgba(0, 224, 112, 0.452);
+    color:#24292e;
+    font-family: Helvetica, arial,sans-serif;
+    font-size : 16px;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    text-align: center;
+}
+
+/* star Container */
+.container{
+    margin: 10px auto;
+    overflow: auto;
+    width: 90%;
+
+}
+/* End Container */
+
+/* Star Debug */
+.bg-blue {
+    background-color: blue;
+
+}
+.bg-red {
+    background-color: rgb(188, 219, 170);
+}
+
+/* Star Menu Primer */
+.Menu-Primer ul {
+    background-color: antiquewhite;
+    border-radius: 4px;
+    box-shadow:
+        0 3px 5px -1px rgba(0,0,0.2),
+        0 6px 10px 0 rgba(0,0,0,.14),
+        0 1px 10px 0 rgba(0,0,0,.12);
+
+}
+
+.menu-primer li{
+    border-right: 1px solid #ffffff;
+    display: inline-block;
+}
+/* End Menu Primer */
